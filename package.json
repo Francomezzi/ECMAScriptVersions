@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Franco Mezzi <mezzifrancodev\u001b3\u001b2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
