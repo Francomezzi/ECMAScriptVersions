@@ -1,0 +1,15 @@
+{
+  "name": "curso-ecmasscript",
+  "version": "1.0.0",
+  "description": "curso de ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Franco Mezzi <mezzifrancodev\u001b3\u001b2@gmail.com>",
+  "license": "MIT"
+}
