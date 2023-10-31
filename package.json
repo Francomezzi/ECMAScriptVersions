@@ -12,5 +12,8 @@
   ],
   "author": "Franco Mezzi <mezzifrancodev\u001b3\u001b2@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
